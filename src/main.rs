@@ -16,7 +16,6 @@ use std::io::ErrorKind;
 use std::path::Path;
 use std::sync::Arc;
 use std::sync::Mutex;
-use async_std::task;
 use std::{
     collections::HashMap,
     convert::Infallible,
